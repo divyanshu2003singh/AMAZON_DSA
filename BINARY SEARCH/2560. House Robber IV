@@ -1,3 +1,6 @@
+// here we play with the capability means the highest cap is the hignest money in the array of houses
+, the main question is can we rob 2 houses or k numbers houses with money less then the capability if yes then lower the capablility and keep lowring it until you are able to satisfy the condition of cap and number of houses 
+
 class Solution {
     public int minCapability(int[] nums, int k) {
         
